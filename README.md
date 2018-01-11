@@ -1,2 +1,3 @@
-# mocking-spongebob-slackbot
-A bot that mocks people on slack 
+# Mocking Spongebob Bot
+
+A bot that randomly mocks people 
