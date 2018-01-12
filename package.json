@@ -1,0 +1,22 @@
+{
+  "name": "mocking-spongebob-bot",
+  "version": "1.0.0",
+  "description": "A spongbob bot that randomly mocks people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deuzu/mocking-spongebob-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deuzu/mocking-spongebob-bot/issues"
+  },
+  "homepage": "https://github.com/deuzu/mocking-spongebob-bot#readme",
+  "dependencies": {
+    "@slack/client": "^3.10.0"
+  }
+}
